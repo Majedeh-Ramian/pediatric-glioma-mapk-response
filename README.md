@@ -51,7 +51,6 @@ For this analysis, I used 6 samples from the BT-40 (BRAF V600E-mutant pediatric 
 This analysis was done as independent, self-directed practice ahead of a PhD application, to explore whether a resistance mechanism identified in adult melanoma (therapy-induced myeloid recruitment, Obenauf lab) generalizes to a pediatric brain tumor model treated with the same drug class.
 
 ## Files
-- `analysis.R` — full analysis script
 - `glioma_deseq2_results.csv` — full DESeq2 results table with gene symbols
 - `pca_plot_glioma.png` — PCA plot of sample clustering
 
