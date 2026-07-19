@@ -54,5 +54,4 @@ This analysis was done as independent, self-directed practice ahead of a PhD app
 - `analysis.R` — full analysis script
 - `glioma_deseq2_results.csv` — full DESeq2 results table with gene symbols
 - `pca_plot_glioma.png` — PCA plot of sample clustering
-- `glioma_deseq2_results.csv` — full DESeq2 results table with gene symbols
-- `pca_plot_glioma.png` — PCA plot of sample clustering
+
